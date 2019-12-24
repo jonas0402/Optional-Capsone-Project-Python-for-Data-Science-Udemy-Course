@@ -1,0 +1,2 @@
+# Optional-Capsone-Project-Python-for-Data-Science-Udemy-Course
+This is an optional capstone project from the "Python for Data Science' course at Udemy. This project was labelled as optional and it does a data analysis over financial stocks for a group of financial institutions. For this project, I used pandas, seaborn, matplotlib, plotly, and cufflinks to analyze and visualize the data. There is nothing special but this is the way I show I am learning.  
